@@ -1,2 +1,1 @@
-# KhanTheTalisman
- 🩸 initGitHubProfile()
+# TalismanKhan
